@@ -92,6 +92,7 @@ menggunakan kondisi dimana jika kondisi terpenuhi maka settingan yang diatur aka
 flex hanya horizontal
 
 grid vertikal dan horizontal
+
 ================================================================================
 
     Bootstrap
