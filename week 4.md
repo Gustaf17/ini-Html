@@ -73,6 +73,7 @@ melakukan pull request
 melakukan pull dan merge regis/log dari branch dev ke A/B
 
 konlik terjadi ketika ada 2 atau lebih orang yang mengedit satu file yang sama
+
 ================================================================================
 
           Responsive web design
