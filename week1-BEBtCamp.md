@@ -1,7 +1,11 @@
 Web Server & REsTful API
-web server adlah tempat untuk menaruh file website
-dynamic site/server side render full dilakukan didalam server, opsi ada 2 html atau json
+======================================================================================================================
+Web server adalah tempat untuk menaruh file website.
+
+Dynamic site/server side render full dilakukan didalam server, terdapat 2 opsi ada html atau json
+
 RESTAPI
+=========================================================
 Representational State Transfer salah satu arsitektur design untuk membuat web services
 
 rules :
