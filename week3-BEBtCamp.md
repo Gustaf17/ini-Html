@@ -34,15 +34,15 @@ contoh collection
 
     cars			      cars		    	      user
     {			
-                    {		  	       {
-     nama :		     	  nama :			       id:
-     merk :			      warna:		      	 nama:
-     user : {		      merk :			       alamat:
-          nama:		    user :             objid		}
-          age: 	               }
-          address:
-         }
-    }
+                        {		  	       {
+     nama :		     	  nama :			    id:
+     merk :			      warna:		      nama:
+     user : {		      merk :			  alamat:
+             nama:		  user : objid		}
+             age: 	     }
+             address:
+             }
+     }
 
 mongoose 
 ==============================
